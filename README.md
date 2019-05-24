@@ -36,7 +36,7 @@ truffle migrate
 
 ##
 
-- Setup the MetaMask so it connect to the local ethereum
+- Setup the MetaMask so it connects to the local ethereum
 
 ##
 
