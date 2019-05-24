@@ -13,13 +13,6 @@ npm install -g ganache-cli
 
 ## Usage
 
-```bash
-cd Pet-Shop-DApp
-npm i
-```
-
-##
-
 in another Terminal
 ```bash
 ganache-cli
@@ -30,6 +23,7 @@ ganache-cli
 in another Terminal
 ```bash
 cd Pet-Shop-DApp
+npm i
 truffle compile
 truffle migrate
 ```
