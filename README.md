@@ -29,6 +29,7 @@ ganache-cli
 
 in another Terminal
 ```bash
+cd Pet-Shop-DApp
 truffle compile
 truffle migrate
 ```
