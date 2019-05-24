@@ -4,13 +4,40 @@ My First ÐApp using ethereum blockchain, an adoption tracking system for a pet 
 
 ## Requirement
 
+* [MetaMask](https://metamask.io/) - Brings Ethereum to your browser
+
 ```bash
 npm install -g truffle
 npm install -g ganache-cli
-npm i
 ```
 
 ## Usage
+
+```bash
+cd Pet-Shop-DApp
+npm i
+```
+
+##
+
+in another Terminal
+```bash
+ganache-cli
+```
+
+##
+
+in another Terminal
+```bash
+truffle compile
+truffle migrate
+```
+
+##
+
+- Setup the MetaMask so it connect to the local ethereum
+
+##
 
 ```bash
 npm run dev
