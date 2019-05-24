@@ -13,14 +13,12 @@ npm install -g ganache-cli
 
 ## Usage
 
-in another Terminal
 ```bash
 ganache-cli
 ```
 
 ##
 
-in another Terminal
 ```bash
 cd Pet-Shop-DApp
 npm i
