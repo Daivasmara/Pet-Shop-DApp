@@ -1,6 +1,6 @@
 # Pet-Shop ÐApp
 
-My First ÐApp using ethereum blockchain, an adoption tracking system for a pet shop!
+ÐApp using ethereum blockchain, an adoption tracking system for a pet shop!
 
 ## Requirement
 
